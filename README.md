@@ -71,14 +71,6 @@ npm -v
 ```
 
 Both should give version numbers.
-## 🎯 Goals
-
-By the end of this course, you’ll be able to:
-  - Build fully responsive websites quickly
-  - Customize Bootstrap for your own projects
-  - Understand how to use Bootstrap in real-world applications
-
----
 
 **4. If still not recognized (Windows PATH issue)**
 
@@ -123,6 +115,14 @@ npm install @popperjs/core --save
 
 ---
 
+## 🎯 Goals
+
+By the end of this course, you’ll be able to:
+  - Build fully responsive websites quickly
+  - Customize Bootstrap for your own projects
+  - Understand how to use Bootstrap in real-world applications
+
+---
 ## 🤝 Contributing
 
 - Contributions are welcome! If you’d like to improve examples or add more resources:
