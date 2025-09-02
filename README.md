@@ -39,13 +39,18 @@ This repository contains all the resources, examples, and code snippets you’ll
 
 - First visit this site: https://getbootstrap.com/docs/5.0/getting-started/download/
 - From there download Compiled CSS and JS and extract all into a new folder named bootstrap or anything of your choice
-- Then create an index.html file and type this code:
-.............................................
+- Then create an index.html file and type this code: [index.html](https://github.com/LegendTejas/Bootstrap-5/blob/main/compiled_css_js/index.html)
 
 When you open the browser you can see the text style is different.
 - This is how we can use compiled css and js code for Bootstrap v5.0.2 to easily drop into your project.
 
-#### II. npm installation
+
+#### II. Install via CDN
+
+- Create a folder inside the bootstrap folder named "CDN"
+- then create index.html file and type this code: [index.html](https://github.com/LegendTejas/Bootstrap-5/blob/main/CDN/index.html)
+
+#### III. npm installation
 
 **1. Check if Node.js is installed**
 
@@ -106,12 +111,31 @@ Install popper js as well and then you can link it to your project later:
 ```
 npm install @popperjs/core --save
 ```
-**7. Now Create an index.html file in NPM folder and type this code: **
-.........................
-
 ---
 
-### 2. Grid System
+### 2. Go to this Bootstrap docs and use all features in your projects for free just "CTRL + C" and "CTRL + V" any code:
+
+1. [Getting Started](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+2. [Customize](https://getbootstrap.com/docs/5.3/customize/overview/)
+3. [Layout](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+4. [Content](https://getbootstrap.com/docs/5.3/content/reboot/)
+5. [Forms](https://getbootstrap.com/docs/5.3/forms/overview/)
+6. [Components](https://getbootstrap.com/docs/5.3/components/accordion/)
+7. [Helpers](https://getbootstrap.com/docs/5.3/helpers/clearfix/)
+8. [Utilities](https://getbootstrap.com/docs/5.3/utilities/api/)
+9. [Extend](https://getbootstrap.com/docs/5.3/extend/approach/)
+
+
+### 3. Examples
+
+Click here: [Examples](https://getbootstrap.com/docs/5.3/examples/)
+
+
+### 4. Icons
+
+Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.
+
+Click here: [Icons](https://icons.getbootstrap.com/)
 
 ---
 
