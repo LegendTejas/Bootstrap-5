@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsRTVdY9cOulCv7Njkzba2dqLAY6ICb5sQ&s"alt="Bootstrap Logo">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsRTVdY9cOulCv7Njkzba2dqLAY6ICb5sQ&s">
 
 # Bootstrap 5: Complete Frontend Framework Course  
 
