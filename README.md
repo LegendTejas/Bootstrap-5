@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Bootstrap 5: Complete Frontend Framework Course  
+<h1 align="center">Bootstrap 5: Complete Frontend Framework Course</h1>  
 
 Welcome to the **Bootstrap 5 Complete Course**!  
 This repository contains all the resources, examples, and code snippets you’ll need to learn and master **Bootstrap 5** — one of the most popular frontend frameworks for building responsive, mobile-first websites.  
