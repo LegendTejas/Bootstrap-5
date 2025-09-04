@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsRTVdY9cOulCv7Njkzba2dqLAY6ICb5sQ&s" alt="Bootstrap Logo">
 </div>
 
